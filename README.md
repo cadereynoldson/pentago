@@ -16,7 +16,7 @@ Input key:
     +-------+-------+ 
 </pre>
 
-- Input commands in the following format: b<pre>1</pre>/p bd WHERE:
+- Input commands in the following format: b<pre>1<pre/>/p bd WHERE:
   - b1 is the block to place your token in. (1-4)
   - p is the position to place the token in. (1-9)
   - b is the block to rotate. (1-4)
