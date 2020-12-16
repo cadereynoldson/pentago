@@ -4,6 +4,8 @@
 - The AI in this game is game tree. At each turn, the game tree is updated by expanding by two levels. 
 Input key:
 <pre>
+
+
         Input Key     
     +-------+-------+ 
     | 1 2 3 | 1 2 3 | 
@@ -15,8 +17,8 @@ Input key:
     | 7 8 9 | 7 8 9 | 
     +-------+-------+ 
 </pre>
-- Input commands in the following format: b/p bd WHERE:
-  - b1 is the block to place your token in. (1-4)
+- Input commands in the following format: b/p b2d WHERE:
+  - b is the block to place your token in. (1-4)
   - p is the position to place the token in. (1-9)
-  - b is the block to rotate. (1-4)
+  - b2 is the block to rotate. (1-4)
   - d is the direction to rotate the block in. (L/R)
